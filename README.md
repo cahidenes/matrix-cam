@@ -1,11 +1,11 @@
 # Matrix Cam
 Applies matrix effect to camera with OpenCV using Python
 
-![Demo of the output](https://github.com/cahidenes/matrix-cam/blob/main/demo.GIF?raw=true)
+![Demo of the output](https://raw.githubusercontent.com/cahidenes/visuals/main/matrix.gif)
 
 There are many parameters that you can play with in `parameters.py`. Here is an example with different parameters:
 
-![Another demo](https://github.com/cahidenes/matrix-cam/blob/main/demo.png?raw=true)
+![Another demo](https://github.com/cahidenes/visuals/blob/main/matrix.png?raw=true)
 
 ## Usage
 
