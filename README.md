@@ -9,7 +9,11 @@ There are many parameters that you can play with in `parameters.py`. Here is an 
 
 ## Usage
 
-You need OpenCV to run the program.
+You need OpenCV and Pillow to run the program. To install all dependencies run: 
+
+```sh
+pip install -r requirements.txt
+```
 
 ## Cam To Matrix
 
